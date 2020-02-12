@@ -1,5 +1,5 @@
 let fruits=['banana','apple','keenu','pineapple'];
-//another way
+//another way to declare an array
 let fruits1=new Array('banana','apple','keenu','pineapple');
 for(let i=0;i<fruits.length;i++)
 {
@@ -15,5 +15,5 @@ fruits[fruits.length]='new fruit'; //same as push
 console.log(fruits);
 fruits.shift(); // removes first element from the list
 console.log(fruits);
-fruits.unshift('New fruit');
+fruits.unshift('New fruit'); //add an element at start of list
 console.log(fruits);
