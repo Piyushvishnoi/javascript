@@ -1,3 +1,4 @@
+//common string operations
 let fruit='bananas';
 console.log(fruit);
 console.log(fruit.indexOf('s'));
