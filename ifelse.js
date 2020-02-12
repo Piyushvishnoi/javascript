@@ -1,4 +1,5 @@
-if((i>56)&&(j>40))
+//conditionals used
+if((i>56)&&(j>40))  
 {
     status='Valid';
 }
@@ -6,4 +7,4 @@ else
 {
     status='not valid';
 }
-console.log(status);
+console.log(status);  
