@@ -1,5 +1,7 @@
 var ourArray = [1, 2, 3];
+//pop function will bydefault pop the the last element of the array
 var removedFromourArray = ourArray.pop();
+//removedFromourArray will contain 3
 console.log(ourArray);
 var myArray = [
   ["john", 23],
