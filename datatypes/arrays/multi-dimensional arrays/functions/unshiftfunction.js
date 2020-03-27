@@ -1,4 +1,5 @@
 var myArray = [1, "Piyush", 33];
+//unshift operation will add an element in starting of array just opposite of push function
 myArray.unshift("Happy");
 console.log(myArray);
 var ourArray = [
