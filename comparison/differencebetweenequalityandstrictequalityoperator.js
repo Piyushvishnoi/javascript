@@ -5,7 +5,7 @@ function myfun(a, b) {
 }
 function myfun1(a, b) {
   if (a === b) {
-    return true;
+    return true;   
   } else return false;
 }
 console.log(myfun(10, "10"));
