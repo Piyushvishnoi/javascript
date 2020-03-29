@@ -1,4 +1,5 @@
 function trueorfalse(isThatTrue) {
+  //isThatTrue is a variale which check whether condition is true or not
   if (isThatTrue) return "Yes that is true";
   else return "Yes that is false";
 }
