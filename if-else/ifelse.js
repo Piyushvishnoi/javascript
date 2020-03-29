@@ -1,3 +1,4 @@
+//basic conditionals used
 if((i>56)&&(j>40))
 {
     status='Valid';
