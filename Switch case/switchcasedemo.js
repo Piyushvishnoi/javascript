@@ -6,7 +6,7 @@ function myfun(number) {
     case 2:
       console.log("I am fully mad");
       break;
-    default:
+    default:     //means any no other than 1 and 2 will fall under this case
       console.log("I am alright");
   }
 }
