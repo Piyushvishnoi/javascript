@@ -1,4 +1,5 @@
 function myFun(number) {
+  //if-else chain
   if (number == 4) {
     console.log("Yes it is 4");
   } else if (number == 38) {
@@ -8,6 +9,7 @@ function myFun(number) {
   }
 }
 myFun(38);
+//replacing if-else chain with switch case 
 function myFun1(number) {
   switch (number) {
     case 4:
