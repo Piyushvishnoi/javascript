@@ -1,5 +1,5 @@
 function myfun(number) {
-  switch (number) {
+  switch (number) {     //all below cases will check for the bracket inside number.
     case 1:
       console.log("I am mad");
       break;
