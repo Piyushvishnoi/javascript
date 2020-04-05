@@ -1,4 +1,5 @@
 function myFun(number) {
+  //returning undefined values before matching actual pattern
   if (number > 5 && number < 10) {
     return undefined;
   } else {
