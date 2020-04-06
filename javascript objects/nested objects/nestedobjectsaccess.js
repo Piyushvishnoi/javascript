@@ -5,4 +5,5 @@ var myobj = {
     },
   },
 };
+//accessing nested objects through dot operator
 console.log(myobj.gift.cure["mostimp"]);
