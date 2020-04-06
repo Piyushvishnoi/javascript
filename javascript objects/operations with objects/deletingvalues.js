@@ -10,5 +10,6 @@ myFun.occupation = "Studying";
 //console.log(myFun);
 myFun["address"] = "Auraiya";
 console.log(myFun);
+//deleting object values
 delete myFun.Relation;
 console.log(myFun);
