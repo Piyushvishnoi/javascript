@@ -6,6 +6,7 @@ var myFun = {
 };
 myFun.Relation = "BFF";
 //console.log(myFun);
+//Adding new values in objects
 myFun.occupation = "Studying";
 //console.log(myFun);
 myFun["address"] = "Auraiya";
