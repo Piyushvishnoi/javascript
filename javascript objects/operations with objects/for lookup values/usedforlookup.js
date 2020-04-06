@@ -1,3 +1,4 @@
+//objects are used to look up. values in a function
 function myFun(value) {
   var result = "";
   var lookup = {
