@@ -4,5 +4,6 @@ var myFun = {
   3: "Ameesha",
   Relation: "Besties",
 };
-myFun.Relation = "Ammu";
+//updating object's values
+myFun.Relation = "BFF";
 console.log(myFun);
