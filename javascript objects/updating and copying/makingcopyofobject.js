@@ -9,5 +9,6 @@ var myObj = [
   },
 ];
 console.log(myObj);
+//coping myObj to mycopiedobj
 var mycopiedobj = JSON.parse(JSON.stringify(myObj));
 console.log(mycopiedobj);
