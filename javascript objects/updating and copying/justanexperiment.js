@@ -10,4 +10,7 @@ var myObj = [
 ];
 var mycopiedobj = JSON.parse(JSON.stringify(myObj));
 console.log(mycopiedobj);
+//trying to make a function for upgradation in values
 function myfun()
+{
+}
