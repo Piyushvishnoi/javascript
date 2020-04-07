@@ -1,6 +1,7 @@
-var myObj = [
+var myObj = [//starting of array
   {
     first: "Piyush",
+    //nested array
     second: ["Khushi", "Yash", "Shriyansh"],
   },
   {
