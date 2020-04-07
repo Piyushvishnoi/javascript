@@ -9,4 +9,5 @@ var myObj = [//starting of array
     second: ["Agrawal", "Gupta", "Porwal"],
   },
 ];
+//printing object content
 console.log(myObj);
