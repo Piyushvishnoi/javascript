@@ -1,3 +1,4 @@
+// do-while loop
 function myfun(num) {
   do {
     console.log(num);
