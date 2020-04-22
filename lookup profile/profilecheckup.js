@@ -14,6 +14,7 @@ var contacts = [
 ];
 function lookupProfile(name, prop) {
   for (var i = 0; i < contacts.length; i++) {
+    //comparing parameter passed name with profile name , if the name exist then property mentioned will be checked
     if (contacts[i].firstname === name) {
       return contacts[i][prop] || "No such property";
     }
