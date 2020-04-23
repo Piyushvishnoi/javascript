@@ -1,6 +1,6 @@
 function myFun(number) {
   //if-else chain
-  if (number == 4) { 
+  if (number == 4) {  
     console.log("Yes it is 4");
   } else if (number == 38) { 
     console.log("Yes it is 38");
