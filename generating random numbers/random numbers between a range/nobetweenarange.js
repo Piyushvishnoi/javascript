@@ -1,5 +1,5 @@
 function ourrandomRange(ourMin, ourMax) {
-  return Math.floor(Math.random() * (ourMax - ourMin + 1) + ourMin);
+  return Math.floor(Math.random() * (ourMax - ourMin + 1) + ourMin); //using math.floor method 
 }
 ourrandomRange(1, 9);
 function randomRange(myMax, myMin) {
